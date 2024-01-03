@@ -1,4 +1,4 @@
-Data Science Enthusiast | Python Developer
+Python Developer
 🌍 India
 ✉️ parvpkw@gmail.com
 
