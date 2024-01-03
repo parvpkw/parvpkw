@@ -1,10 +1,10 @@
-Hi 👋 My name is Parv Gupta
-===========================
+Data Science Enthusiast | Python Developer
+🌍 India
+✉️ parvpkw@gmail.com
+🔗 LinkedIn
 
-Cloud Developer
----------------
-
-*   🌍  I'm based in india
-*   ✉️  You can contact me at [parvpkw@gmail.com](mailto:parvpkw@gmail.com)
-*   🚀  I'm currently working on [Digiserv](http://digiservgzb.in)
-*   🧠  I'm learning C
+Skills
+MySQL & Database Management Systems
+Python Development
+Statistical Analysis
+MongoDB for Data Handling
